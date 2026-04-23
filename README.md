@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Krish Gupta  
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=Krish-Gupta123&label=Profile%20views&color=0e75b6&style=flat)
 
 🚀 Frontend Developer | 🎓 BTech IT Student | 💡 Tech Enthusiast  
 
