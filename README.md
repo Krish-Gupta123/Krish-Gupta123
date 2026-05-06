@@ -47,6 +47,7 @@
 ## 🌐 Connect With Me  
 - 💼 LinkedIn:  https://www.linkedin.com/in/krishgupta111/
 - 🌍 Leetcode: https://leetcode.com/u/Krish_11Gupta/
+- 🌐 Email: krishrgupta5@gmail.com
 
 ---
 
