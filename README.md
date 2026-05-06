@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 2nd Year BTech (IT) student  
+- 🎓 3rd Year BTech (IT) student  
 - 💻 Passionate about **Frontend Development & UI/UX**  
 - 🌱 Currently learning **Angular, JavaScript, and APIs**  
 - 🧠 Exploring **DSA & Web Development together**  
@@ -45,9 +45,8 @@
 ---
 
 ## 🌐 Connect With Me  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: your.email@example.com  
-- 🌍 Portfolio: https://yourportfolio.com  
+- 💼 LinkedIn:  https://www.linkedin.com/in/krishgupta111/
+- 🌍 Leetcode: https://leetcode.com/u/Krish_11Gupta/
 
 ---
 
