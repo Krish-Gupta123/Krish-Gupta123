@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krish%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BTech%20IT%20%40%20VESIT&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krish%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BTech%20IT%20Student&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Krish-Gupta123&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Krish-Gupta123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishgupta111/)
@@ -103,7 +103,7 @@ const krish = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Krish-Gupta123&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Krish-Gupta123&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
