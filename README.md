@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krish%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20DSA&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krish%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20S[...] 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Krish-Gupta123&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Krish-Gupta123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishgupta111/)
@@ -26,8 +26,7 @@ const krish = {
   achievements : {
     dsaProblems  : "400+ problems solved",
     leetcodeRating: "1600+",
-    codingStreak : "300+ days continuous",
-    scholarship  : "Rs. 4 Lakh by IDFC FIRST Bank"
+    codingStreak : "300+ days continuous"
   },
   motto        : "Build fast. Learn faster. Ship it. 🚀"
 };
@@ -125,7 +124,7 @@ A production-ready printing business website with admin panel serving real custo
 
 **Key Features:**
 - 🛍️ 10+ product categories with WhatsApp-based ordering
-- ⚙️ 3+ admin modules for product CRUD and message customization
+- ⚙️ 3+ admin modules for product management and ordering using Supabase
 - 🔐 Supabase Auth, DB & Storage integration
 - 📊 Reduced manual updates by 40% and improved qualified leads by 20-30%
 - 🚀 Deployed and serving real customers
@@ -148,7 +147,6 @@ A production-ready printing business website with admin panel serving real custo
 | 🏅 Achievement | Details |
 |---|---|
 | 🎓 Academic Excellence | **CGPA: 9.27** at VESIT, **9.83 SGPA in Semester 4** |
-| 💰 Scholarship | **Rs. 4 Lakh** Engineering Scholarship by IDFC FIRST Bank |
 | 💻 DSA Mastery | **400+ problems** solved on LeetCode with **1600+ rating** |
 | 🔥 Consistency | **300+ day continuous coding streak** on LeetCode |
 | 📝 Technical Writing | LeetCode solution posts with **25,000+ views** and **344 reputation score** |
