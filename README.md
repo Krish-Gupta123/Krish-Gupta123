@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krish%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20S[...] 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krish%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Krish-Gupta123&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Krish-Gupta123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishgupta111/)
@@ -117,31 +117,6 @@ A full-stack accommodation platform with property listings, reviews, and real-ti
 
 ---
 
-### 4. 💼 [Jai Hanuman Printers -- Web Platform](https://jai-hanuman-printers-start.vercel.app/)
-**React.js • Supabase (Auth, DB, Storage) • Vercel**
-
-A production-ready printing business website with admin panel serving real customers.
-
-**Key Features:**
-- 🛍️ 10+ product categories with WhatsApp-based ordering
-- ⚙️ 3+ admin modules for product management and ordering using Supabase
-- 🔐 Supabase Auth, DB & Storage integration
-- 📊 Reduced manual updates by 40% and improved qualified leads by 20-30%
-- 🚀 Deployed and serving real customers
-
----
-
-## 💼 Work Experience
-
-### Full Stack Developer (Freelance)
-**Jai Hanuman Printers -- Web Development & Admin Panel** | May 2026 -- Present
-
-- Engineered and deployed a production-ready printing business website with 10+ product categories
-- Built 3+ admin modules for product management and ordering using Supabase
-- Improved customer acquisition and business operations efficiency
-
----
-
 ## 🏆 Achievements & Recognition
 
 | 🏅 Achievement | Details |
@@ -150,14 +125,6 @@ A production-ready printing business website with admin panel serving real custo
 | 💻 DSA Mastery | **400+ problems** solved on LeetCode with **1600+ rating** |
 | 🔥 Consistency | **300+ day continuous coding streak** on LeetCode |
 | 📝 Technical Writing | LeetCode solution posts with **25,000+ views** and **344 reputation score** |
-
----
-
-## 📜 Certifications
-
-- 🏅 **[DSA Course Completion Certificate](https://drive.google.com/file/d/1ThFas1eVyPy4XLsHMDq55v0Tr-bMTBTw/view)** -- Data Structures & Algorithms by Apna College
-- 🏅 **[Java (Basic) Certificate](https://www.hackerrank.com/certificates/7a126307dbb5)** -- HackerRank
-- 🏅 **[Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/1c79863f46f9)** -- HackerRank
 
 ---
 
